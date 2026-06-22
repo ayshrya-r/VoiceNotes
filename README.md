@@ -36,4 +36,5 @@ A UIKit iOS app to record, visualize, list, and play back voice recordings.
 
 <img width="585" height="1266" alt="IMG_4078" src="https://github.com/user-attachments/assets/d3049645-10d9-499a-b917-f3ca1959e209" />
 
-<img width="585" height="1266" alt="IMG_4080" src="https://github.com/user-attachments/assets/24ffb2f5-8e7e-4f3f-bf3e-a9f1ef591507" />
+<img width="585" height="1266" alt="IMG_4079" src="https://github.com/user-attachments/assets/c8fdc359-80ef-46bb-9803-9fcc62c66a38" />
+
